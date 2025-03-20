@@ -177,3 +177,6 @@ _build/
 # logs
 *.json
 logs/
+
+# 模型文件
+models/
